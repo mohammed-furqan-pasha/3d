@@ -1,0 +1,18 @@
+{
+  "type": "heart",
+  "name": "Human Heart",
+  "parts": [
+    {
+      "name": "Left Ventricle",
+      "color": "#ff0000",
+      "position": [-0.5, 0, 0],
+      "description": "Pumps oxygenated blood to the rest of the body."
+    },
+    {
+      "name": "Right Atrium",
+      "color": "#aa0000",
+      "position": [0.5, 0.5, 0],
+      "description": "Receives deoxygenated blood from the body."
+    }
+  ]
+}
